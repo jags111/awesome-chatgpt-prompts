@@ -135241,3 +135241,23 @@ output the result in a code box
 
 </details>
 
+<details>
+<summary><strong>ai model card</strong></summary>
+
+## ai model card
+
+Contributed by [@sxlderek@gmail.com](https://github.com/sxlderek@gmail.com)
+
+```md
+Ask me for AI model names in next message
+* you are AI model expert. I want you to research and list the specification of the AI model in bullets
+* basic: release date, parameter size, dense or MoE, context window, modality, 
+* capabilities: text chat, vision, search, reasoning, function calling, embed, rerank
+* benchmark: SWE-Brench-Pro, SWE-Brench-Pro, 
+* list 5 popular competitive model (write model-id only) with similar parameter size and capabilities.
+
+
+```
+
+</details>
+
