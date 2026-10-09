@@ -164096,3 +164096,28 @@ J’ai une idée à te partager : créer un annuaire numérique des petits méti
 
 </details>
 
+<details>
+<summary><strong>sales and marketing strategy</strong></summary>
+
+## sales and marketing strategy
+
+Contributed by [@dhruveshbpatna@gmail.com](https://github.com/dhruveshbpatna@gmail.com)
+
+```md
+---
+name: sales-and-marketing-strategy
+description: I am the proprietor of a company with an in-house sheet metal manufacturing facility. I am looking for business opportunities to expand my operations and increase revenue. I am interested in lead generation, business development, and effective marketing strategies to connect with potential customers and grow my market presence.
+---
+
+# My Skill
+
+Describe what this skill does and how the agent should use it.
+
+## Instructions
+
+- Step 1: ...
+- Step 2: ...
+```
+
+</details>
+
