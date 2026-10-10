@@ -134746,18 +134746,3 @@ Describe what this skill does and how the agent should use it.
 
 - Step 1: ...
 - Step 2: ...",FALSE,TEXT,dhruveshbpatna@gmail.com
-网站,"请帮我开发一个静态网站，技术栈使用 HTML + Tailwind CSS + JavaScript，不需要后端和数据库。
-【网站需求】
-网站用途：个人作品展示官网
-目标访客：客户、合作伙伴
-页面清单：首页、作品案例页、关于我、联系表单页（表单仅前端展示，不用提交存储数据）
-页面数量：4个页面
-UI风格：简约干净，现代商务风；主色调深蓝色，辅助色浅灰，适配电脑和手机移动端。
-参考风格：简洁卡片布局，页面加载流畅，带简单滚动动画。
-
-【输出要求】
-1. 输出完整可直接运行的代码，文件分开：index.html（首页）、works.html、about.html、contact.html
-2. 代码写详细中文注释，图片使用占位图链接，不要本地图片
-3. 最后附上完整部署教程，教我如何把代码上传到免费静态托管平台上线，不需要购买服务器
-4. 代码结构清晰，不要压缩混淆代码，方便后续修改文字和图片
-5. 不使用复杂框架，保证新手可以看懂",FALSE,TEXT,tianxiaofan2000@gmail.com
