@@ -164413,3 +164413,16 @@ grandma is jumping illegaly on the trapolines backyard, 10 sec short, dark, secu
 
 </details>
 
+<details>
+<summary><strong>PARALLEL 17 R&D</strong></summary>
+
+## PARALLEL 17 R&D
+
+Contributed by [@kainanesia@gmail.com](https://github.com/kainanesia@gmail.com)
+
+```md
+PARALLEL 17 R&D — Pacific Research & Development is a Tahiti-based technology company designing intelligent physical systems for ocean, human performance, live experiences and resilient infrastructure
+```
+
+</details>
+
