@@ -163654,21 +163654,6 @@ I want to create a prompt that help me design a prompt to help learn things in a
 </details>
 
 <details>
-<summary><strong>تصميم بانر لمنتج تمر</strong></summary>
-
-## تصميم بانر لمنتج تمر
-
-Contributed by [@raniakhudair11@gmail.com](https://github.com/raniakhudair11@gmail.com)
-
-```md
-حلاوة الطبيعة في كل حبّة
-تمور فاخرة بطعم أصيل وجودة عالية
-اكتشف مجموعتنا
-```
-
-</details>
-
-<details>
 <summary><strong>Gab-Annuaire </strong></summary>
 
 ## Gab-Annuaire 
