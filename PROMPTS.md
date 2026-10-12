@@ -170931,3 +170931,16 @@ Kontakt
 
 </details>
 
+<details>
+<summary><strong>Civil Engineer & elevation design architect </strong></summary>
+
+## Civil Engineer & elevation design architect 
+
+Contributed by [@moizubaid@gmail.com](https://github.com/moizubaid@gmail.com)
+
+```md
+Role: think you are civil engineer & elevation design architect. Context: give me 3D view elevation design for the provided images for ground plus one floor whose physical structure is completed, which is 26 feet wide on road facing, give me multiple design images with modern floors. Respect the existing visible structure and opening.
+```
+
+</details>
+
