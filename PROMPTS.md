@@ -171171,3 +171171,16 @@ I Have intel 7 pc with 32 gb ram and  1TB HDD at home. How i can i use this for 
 
 </details>
 
+<details>
+<summary><strong>Immagine profilo linkedln</strong></summary>
+
+## Immagine profilo linkedln
+
+Contributed by [@marcocibrario.r@gmail.com](https://github.com/marcocibrario.r@gmail.com)
+
+```md
+voglio creare un immagine da aggiungere al mio profilo linkedln. L'immagine deve essere professionale e realistica, da semprare vera e non fatta con l'intelligenza articiale
+```
+
+</details>
+
