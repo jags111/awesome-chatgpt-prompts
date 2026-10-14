@@ -171449,3 +171449,16 @@ I Have intel 7 pc with 32 gb ram and  1TB HDD at home. How i can i use this for 
 
 </details>
 
+<details>
+<summary><strong>Cinematic Bank Heist Scene</strong></summary>
+
+## Cinematic Bank Heist Scene
+
+Contributed by [@shumbone@gmail.com](https://github.com/shumbone@gmail.com)
+
+```md
+Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US. 
+```
+
+</details>
+
